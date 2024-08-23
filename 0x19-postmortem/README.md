@@ -3,7 +3,7 @@
 
 Issue Summary:
 
-# Duration: The outage lasted for 2 hours and 45 minutes, starting at 10:15 AM and ending at 1:00 PM (UTC) on August 20, 2024.
+# Duration: The outage lasted for 2 hours and 45 minutes, starting at 10:15 AM and ending at 1:00 PM (EAT) on August 20, 2024.
 Impact: During this period, our e-commerce platform experienced significant slowness, with page load times exceeding 30 seconds, resulting in a complete inability to complete purchases. Approximately 85% of users were affected, with most being unable to add items to their carts or complete transactions.
 Root Cause: The root cause was traced to a misconfiguration in our database connection pool, which led to resource exhaustion and subsequent degradation of the application’s performance.
 
